@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+
+}
+
+.shadow {
+  text-shadow: 1px 1px #000;
+  color: blue;
+}
+.bold {
+  text-decoration: underline;
+  color: cyan;
+  text-shadow: 1px 1px #000
+}
